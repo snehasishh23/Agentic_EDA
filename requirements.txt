@@ -1,0 +1,9 @@
+streamlit==1.39.0
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.13.1
+scikit-learn==1.5.2
+matplotlib==3.9.2
+langgraph==0.2.39
+langchain-ollama==0.2.0
+python-dotenv==1.0.1
